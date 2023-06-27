@@ -48,7 +48,7 @@ Enjoy the game!
 **requirements.txt**
 
 ```bash
-matplotlib==3.4.3
+matplotlib
 ```
 
 Note: The above version for matplotlib is just an example. You should replace it with the version that you have tested your code with. 
