@@ -43,14 +43,3 @@ pip install -r requirements.txt
 ```
 
 Enjoy the game!
-
----
-**requirements.txt**
-
-```bash
-matplotlib
-```
-
-Note: The above version for matplotlib is just an example. You should replace it with the version that you have tested your code with. 
-
-The application only uses the Python Standard Library apart from matplotlib, so no other dependencies are required.
